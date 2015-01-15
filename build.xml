@@ -66,11 +66,11 @@
         </java>
     </target>
     <target name="junitreport">
-        <junitreport todir="${junit.output.dir}">
-            <fileset dir="${junit.output.dir}">
+        <junitreport todir="testReports/">
+            <fileset dir="testReports/">
                 <include name="TEST-*.xml"/>
             </fileset>
-            <report format="frames" todir="${junit.output.dir}"/>
+            <report format="frames" todir="testReports/"/>
         </junitreport>
     </target>
 </project>
