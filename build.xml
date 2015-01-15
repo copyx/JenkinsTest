@@ -10,8 +10,8 @@
     <property name="target" value="1.8"/>
     <property name="source" value="1.8"/>
     <path id="JUnit 4.libraryclasspath">
-        <pathelement location="../../Downloads/eclipse-java-luna-SR1a-win32/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar"/>
-        <pathelement location="../../Downloads/eclipse-java-luna-SR1a-win32/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+        <pathelement location="C:/Users/JK/Downloads/eclipse-java-luna-SR1a-win32/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar"/>
+        <pathelement location="C:/Users/JK/Downloads/eclipse-java-luna-SR1a-win32/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar"/>
     </path>
     <path id="Bank Business.classpath">
         <pathelement location="bin"/>
